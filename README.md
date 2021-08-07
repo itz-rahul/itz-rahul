@@ -30,4 +30,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/itz-rahul/itz-rahul/master/code.gif" width="500" height="320"></p>
 
-<h1 align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itz-rahul&show_icons=true&locale=en" alt="itz-rahul" /></p></h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itz-rahul&show_icons=true&locale=en" alt="itz-rahul </p>
