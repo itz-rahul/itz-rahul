@@ -30,5 +30,4 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/itz-rahul/itz-rahul/master/code.gif" width="500" height="320">, I'm Rahul</h1>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-rahul&show_icons=true&locale=en" alt="itz-rahul" /></p>
+<h1 align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itz-rahul&show_icons=true&locale=en" alt="itz-rahul" /></p></h1>
