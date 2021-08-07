@@ -1,5 +1,5 @@
 <p align="center">𝐇𝐢<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝐈'𝐦 𝐑𝐚𝐡𝐮𝐥</p>
-__________________________________________________________________________________________________________________________
+_____________________________________
 <p align="center">𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩 𝐜𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞 !</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /></p>
