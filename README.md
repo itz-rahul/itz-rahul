@@ -2,7 +2,9 @@
 
 <p align="center">Talk is cheap chow me the code !</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /></p>
+
+<br>
 
 - 🔭 I’m currently working on **Yolo Object Detection**
 
