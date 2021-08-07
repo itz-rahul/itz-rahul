@@ -30,4 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-rahul&show_icons=true&locale=en&layout=compact" alt="itz-rahul" /></p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itz-rahul/itz-rahul/master/code.gif" width="500" height="320" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-rahul&show_icons=true&locale=en" alt="itz-rahul" /></p>
