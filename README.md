@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/itz-rahul-a5a444208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itz-rahul-a5a444208" height="30" width="40" /></a>
 <a href="https://kaggle.com/itzrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itzrahul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucfygnhjiebrj5lyjnvt1kla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfygnhjiebrj5lyjnvt1kla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ItzRahulYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfygnhjiebrj5lyjnvt1kla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itzrahul6449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itzrahul6449" height="30" width="40" /></a>
 </p>
 <br>
