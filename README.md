@@ -1,4 +1,4 @@
-<p align="center"><font size="6">Hi</font>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rahul</p>
+<p align="center"><h1Hi</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rahul</p>
 
 <p align="center">Talk is cheap chow me the code !</p>
 
