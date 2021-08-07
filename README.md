@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for **Internship**
 
 - 💬 Ask me about **Machine Learning**
 
