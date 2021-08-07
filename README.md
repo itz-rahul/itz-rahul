@@ -1,4 +1,6 @@
 <p align="center">𝐇𝐢<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝐈'𝐦 𝐑𝐚𝐡𝐮𝐥</p>
+<p align="center">𝐇𝐢<img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="25px">, 𝐈'𝐦 𝐑𝐚𝐡𝐮𝐥</p>
+
 
 <p align="center">𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩 𝐬𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞 !</p>
 
