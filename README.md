@@ -1,6 +1,6 @@
-<p align="center" style="font-size:100px">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rahul</p>
+<font size="6"><p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rahul</p></font>  
 
-<p align="center" style="font-size:100px">Talk is cheap chow me the code !</p>
+<font size="6"><p align="center">Talk is cheap chow me the code !</p></font>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /> </p>
 
