@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /></p>
 
-<br>
-
 - 🔭 I’m currently working on **Yolo Object Detection**
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -19,6 +17,8 @@
 - 📫 How to reach me **itzrahul6449@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
+
+<br>
 
 <p align="center">Connect with me:</p>
 <br>
