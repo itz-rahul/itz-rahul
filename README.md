@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /></p>
 
-- 🔭 I’m currently working on **Yolo Object Detection**
+- 🔭 I’m currently working on **!**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning / Django**
 
-- 👯 I’m looking to collaborate on **Youtube**
+- 👯 I’m looking to collaborate on **!**
 
 - 🤝 I’m looking for **Internship**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning / Django**
 
 - 📫 How to reach me **itzrahul6449@gmail.com**
 
