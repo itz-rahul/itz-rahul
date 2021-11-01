@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **itzrahul6449@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
-
 <br>
 
 <p align="center">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</p>
