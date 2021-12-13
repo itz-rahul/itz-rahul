@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for **Internship**
 
-- 💬 Ask me about **Machine Learning / Django**
+- 💬 Ask me about **Django / REST API**
 
 - 📫 How to reach me **itzrahul6449@gmail.com**
 
