@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **!**
 
-- 🌱 I’m currently learning **Machine Learning / Django**
+- 🌱 I’m currently learning **Machine Learning / Django / REST API**
 
 - 👯 I’m looking to collaborate on **!**
 
