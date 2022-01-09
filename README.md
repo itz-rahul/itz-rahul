@@ -1,8 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
-Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passionate self-taught Python/Django developer from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /> </p>
+
+<br />
+
+Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passionate self-taught Python/Django developer from India.
 
 - 🔭 I’m currently working on **!**
 
