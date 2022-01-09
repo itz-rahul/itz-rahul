@@ -6,7 +6,7 @@ Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passiona
 
 - 🔭 I’m currently working on **!**
 
-- 🌱 I’m currently learning **!**
+- 🌱 I’m currently learning **Reactjs/RestApi**
 
 - 👯 I’m looking to collaborate on **!**
 
