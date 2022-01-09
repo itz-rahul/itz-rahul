@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">𝐇𝐢, 𝐈'𝐦 𝐑𝐚𝐡𝐮𝐥</p>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">𝐇𝐢, 𝐈'𝐦 𝐑𝐚𝐡𝐮𝐥</p>
 
 <p align="center">𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩 𝐬𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞 !</p>
 
@@ -22,7 +22,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/rahul-upadhyay-a5a444208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-upadhyay-a5a444208" width="30px" /></a>
+<a href="https://linkedin.com/in/rahul-upadhyay-a5a444208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-upadhyay-a5a444208" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
