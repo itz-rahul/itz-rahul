@@ -1,9 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey There</h1>
-<h3 align="center">A passionate Python/Django developer from India</h3>
-<br />
-<br />
-
-Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passionate self-taught Python/Django developer from india. 
+<h3 align="center">Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passionate self-taught Python/Django developer from india.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /> </p>
 
