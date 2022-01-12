@@ -20,6 +20,7 @@ Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passiona
 <p align="left">
 <a href="https://linkedin.com/in/itz-rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itz-rahul" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itzrahul2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itzrahul2000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itzrahul2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itzrahul2000" height="30" width="40" /></a>
 <a href="https://discord.gg/itzrahul2000#4782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itzrahul2000#4782" height="30" width="40" /></a>
 </p>
 
