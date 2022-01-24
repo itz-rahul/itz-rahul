@@ -2,7 +2,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rahul" /></p>
 
-Hi, I'm [Rahul Upadhyay](https://itz-rahul.herokuapp.com/), a passionate self-taught Python/Django developer from India.
+Hi, I'm [Rahul Upadhyay](https://itzrahul.pythonanywhere.com/), a passionate self-taught Python/Django developer from India.
 
 - 👨‍💻 I’m currently learning **Reactjs/RestApi**
 
