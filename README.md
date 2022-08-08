@@ -4,7 +4,7 @@
 
 Hi, I'm [Rahul Upadhyay](https://itz-rahul-portfolio.herokuapp.com/), a passionate self-taught Python/Django developer from India.
 
-- 👨‍💻 I’m currently learning **Reactjs/RestApi**
+- 👨‍💻 I’m currently learning **RestApi**
 
 - 📫 How to reach me **itzrahul6449@gmail.com**
 
