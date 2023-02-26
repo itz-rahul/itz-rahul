@@ -11,9 +11,8 @@ Hi, I'm [Rahul Upadhyay](https://itzm416.github.io/portfolio.github.io/), a pass
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itzm416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itzm416" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itzm416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itzm416" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itzm416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itzm416" height="30" width="40" /></a>
-<a href="https://discord.gg/itzrahul2000#4782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itzrahul2000#4782" height="30" width="40" /></a>
+<a href="https://discord.gg/itzrahulrider#4782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itzrahulrider#4782" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
